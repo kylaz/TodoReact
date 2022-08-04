@@ -3,4 +3,6 @@
 <b>Technology : </b>
 <ul>
   <li>ReactJS</li>
+  <li>Local Storage</li>
+  <li>TailwindCSS</li>
 </ul>    
